@@ -42,7 +42,3 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-gecoosac gecoosac"
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-app-store"
 # 若去掉首页和网络向导 则打开注释
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-i18n-quickstart-zh-cn"
-# Lucky大吉 
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-lucky lucky"
-# 集客AC
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-gecoosac gecoosac"
